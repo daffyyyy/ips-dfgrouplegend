@@ -1,0 +1,6 @@
+{
+    "dfGroupLegendHookCore": {
+        "type": "C",
+        "class": "\\IPS\\Member"
+    }
+}
